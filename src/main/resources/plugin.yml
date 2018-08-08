@@ -1,3 +1,6 @@
-name: MakeHistoryHunt
-main: com.kodingkingdom.makehistory.HuntPlugin
+name: CommandLines
+main: com.kodingkingdom.commandline.CommandLinesPlugin
 version: 0.0.1
+depend: [ProtocolLib]
+commands:
+  eval:

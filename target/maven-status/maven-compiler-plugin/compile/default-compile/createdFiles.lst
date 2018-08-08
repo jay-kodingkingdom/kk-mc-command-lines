@@ -1,6 +1,5 @@
-com/kodingkingdom/makehistory/HuntPlugin.class
-com/kodingkingdom/makehistory/Hunt.class
-com/kodingkingdom/hunt/Room.class
-com/kodingkingdom/hunt/Problem.class
-com/kodingkingdom/makehistory/Hunt$1.class
-com/kodingkingdom/hunt/ProblemData.class
+com/kodingkingdom/commandline/kinds/SilentCommandLine.class
+com/kodingkingdom/commandline/CommandLinesPlugin.class
+com/kodingkingdom/commandline/CommandLines.class
+com/kodingkingdom/commandline/kinds/NormalCommandLine.class
+com/kodingkingdom/commandline/kinds/SilentCommandLine$1.class
